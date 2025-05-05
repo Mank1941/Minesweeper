@@ -1,2 +1,3 @@
 # Minesweeper
-A GameMaker Engine Project of an Android Version of the game Minesweeper.
+A GameMaker Engine Project clone game of Minesweeper with focus on Android Support.
+Build and Executable are in the repository.

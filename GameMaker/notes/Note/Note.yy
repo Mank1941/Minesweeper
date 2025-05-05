@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Note",
+  "name":"Note",
+  "parent":{
+    "name":"Minesweeper",
+    "path":"Minesweeper.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
